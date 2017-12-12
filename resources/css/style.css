@@ -31,4 +31,9 @@ p {
   text-align: right;
   color: gray;
   font-family: Verdana;
+  font-size:21px;
+}
+
+#Excursionremembers {
+  text-align: center;
 }
